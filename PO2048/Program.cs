@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace 2048
+namespace CS2048
 {
     // Klasa reprezentująca planszę gry
     class Board
