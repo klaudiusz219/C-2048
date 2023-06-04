@@ -1,0 +1,15 @@
+/Users/klaudiusz/Documents/Kod/2048PO/PO2048/PO2048/bin/Debug/net6.0/PO2048
+/Users/klaudiusz/Documents/Kod/2048PO/PO2048/PO2048/bin/Debug/net6.0/PO2048.deps.json
+/Users/klaudiusz/Documents/Kod/2048PO/PO2048/PO2048/bin/Debug/net6.0/PO2048.runtimeconfig.json
+/Users/klaudiusz/Documents/Kod/2048PO/PO2048/PO2048/bin/Debug/net6.0/PO2048.dll
+/Users/klaudiusz/Documents/Kod/2048PO/PO2048/PO2048/bin/Debug/net6.0/PO2048.pdb
+/Users/klaudiusz/Documents/Kod/2048PO/PO2048/PO2048/obj/Debug/net6.0/PO2048.csproj.AssemblyReference.cache
+/Users/klaudiusz/Documents/Kod/2048PO/PO2048/PO2048/obj/Debug/net6.0/PO2048.GeneratedMSBuildEditorConfig.editorconfig
+/Users/klaudiusz/Documents/Kod/2048PO/PO2048/PO2048/obj/Debug/net6.0/PO2048.AssemblyInfoInputs.cache
+/Users/klaudiusz/Documents/Kod/2048PO/PO2048/PO2048/obj/Debug/net6.0/PO2048.AssemblyInfo.cs
+/Users/klaudiusz/Documents/Kod/2048PO/PO2048/PO2048/obj/Debug/net6.0/PO2048.csproj.CoreCompileInputs.cache
+/Users/klaudiusz/Documents/Kod/2048PO/PO2048/PO2048/obj/Debug/net6.0/PO2048.dll
+/Users/klaudiusz/Documents/Kod/2048PO/PO2048/PO2048/obj/Debug/net6.0/refint/PO2048.dll
+/Users/klaudiusz/Documents/Kod/2048PO/PO2048/PO2048/obj/Debug/net6.0/PO2048.pdb
+/Users/klaudiusz/Documents/Kod/2048PO/PO2048/PO2048/obj/Debug/net6.0/PO2048.genruntimeconfig.cache
+/Users/klaudiusz/Documents/Kod/2048PO/PO2048/PO2048/obj/Debug/net6.0/ref/PO2048.dll
